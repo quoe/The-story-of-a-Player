@@ -1,5 +1,5 @@
 # The-story-of-a-Player
-Игра.
+Игра, где будучи плеер надо выбраться со свалки в дом хозяина. (В GMS)
 
 Video  
 [![The story of a Player](https://i9.ytimg.com/vi/YooH7Oin4sQ/mq1.jpg?sqp=CKzcvvkF&rs=AOn4CLBEtwUVOJh1K_-wQq8WxD8wl8DZAg)](https://youtu.be/YooH7Oin4sQ "The story of a Player")
